@@ -454,7 +454,6 @@ def names(infile="names_tiny.csv"):
             
             
         if command=='s':
-            #this function means nothing?
             plt.show()
         
         
